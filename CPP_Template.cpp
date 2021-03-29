@@ -35,7 +35,7 @@ auto time0 = curtime;
  
 void solve(){
   
-    $0    
+       
   
  
 } 
